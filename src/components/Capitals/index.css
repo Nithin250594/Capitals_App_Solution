@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.capitals-bg {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.capitals-container {
+  background-color: #ffffff;
+  width: 50vw;
+  max-width: 567px;
+  padding-left: 55px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 15px;
+}
+
+.capitals-title {
+  color: #000000;
+  font-size: 32px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.capital-label {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
+
+.select-capital {
+  width: 160px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 18px;
+  padding-right: 18px;
+  border: 1px solid #cbd2d9;
+  border-radius: 5px;
+  font-weight: 600;
+}
+.country {
+  font-size: 21px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
